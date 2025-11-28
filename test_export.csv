@@ -1,0 +1,6 @@
+id,email,subscribed_at,status,source,notes
+1,customer1@example.com,2025-11-28 23:48:56,active,website,
+2,customer2@example.com,2025-11-28 23:48:56,active,website,
+3,customer3@example.com,2025-11-28 23:48:56,active,newsletter,
+4,customer4@example.com,2025-11-28 23:48:56,unsubscribed,website,
+5,customer5@example.com,2025-11-28 23:48:56,active,social_media,

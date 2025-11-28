@@ -1,0 +1,7 @@
+email,status,source,notes
+test1@example.com,active,website,Test subscriber 1
+test2@example.com,active,newsletter,Test subscriber 2
+test3@example.com,active,social_media,Test subscriber 3
+unsubscribed@example.com,unsubscribed,website,Unsubscribed user
+bounced@example.com,bounced,newsletter,Email bounced
+
